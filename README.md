@@ -1,31 +1,4 @@
-None selected
 
-Skip to content
-Using MKSSS's Cummins College of Engineering for Women Pune Mail with screen readers
-
-Conversations
-me
-README_Cuisine_Quest (1).md
- 
-Attachment:
-README_Cuisine_Quest (1).md
-me
-Omkareshwari_Resume_Cleaned.pdf
- - Shared by PDF Reader. It's so easy and convenient to view & edit PDFs. Download for free now:https://st.simpledesign.ltd/2AFfEz
-Attachment:
-Omkareshwari_Resume_Cleaned.pdf
-8:06 PM
-Sanjivani Mane
-2
-Regarding ppts
- - I am so sorry for typing mistake. I was trying to say do not open ppts that I have shared today. I will give access till tomorrow. Thanks and Regards, Sanjivani Mane, Assistant Professor, Computer
- 
-7:02 PM
- 
-Program Policies
-Powered by Google
-Last account activity: 0 minutes ago
-Currently being used in 5 other locations · Details
 # Cuisine Quest – 🌍 Android App for International Recipes
 
 ## 📱 Overview
