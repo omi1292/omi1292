@@ -21,12 +21,7 @@ Includes filters, estimated cooking time, and interactive features like “Like�
 - Built with scalable architecture and real-time sync
 - Demonstrates practical use of UI/UX, backend integration, and Android development
 
-## 📸 Screenshots (Optional)
-Include screenshots of:
-- Home screen
-- Recipe detail screen
-- Country filter
-- Like/share buttons
+
 
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/omi-pawar-aa219525a)
